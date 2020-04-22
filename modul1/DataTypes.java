@@ -8,5 +8,14 @@ public class  DataTypes{
 		double ipk = 3.98765432;
 		char nilaiAbjad = 'A';
 		boolean ganteng = true;
+		
+		System.out.println("Nama Depan : " + namaDepan);
+		System.out.println("Nama Tengah : " + namaTengah);
+		System.out.println("Nama Belakang : " + namaBelakang);
+		System.out.println("Usia : " + usia);
+		System.out.println("Target Tahun Kuliah" + targetTahunKuliah + "Tahun");
+		System.out.println("IPK : " + ipk);
+		System.out.println("Nilai Praktikum : " + nilaiAbjad);
+		System.err.println("Ganteng : " + ganteng);
 	}
 }
